@@ -397,4 +397,4 @@ dependencies:
     </td>
     <td><img align="center" src="screenshots/gif/2_bloc_overview/15_counter_bloc_hydrated.gif" width="250"></img></td>
   </tr>
-</table>
+</table> 
